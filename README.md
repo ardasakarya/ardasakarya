@@ -45,14 +45,21 @@ Ekip çalışmasına yatkınlığım ve problem çözme becerilerimle sektörde 
 
 ## 🚀 Öne Çıkan Projeler
 
-> Henüz detaylı projeler eklemedim. Yakında repo linkleri buraya gelecek. 👇
+### ⭐ Bazı Güncel Reposlar
 
-- 📱 **Mobil Uygulamalar:** Kotlin & Flutter ile geliştirilmiş uygulamalar  
-- 🌐 **Web Projeleri:** HTML, CSS, JS ile hazırlanmış web siteleri  
-- ⚙️ **Backend Projeleri:** Node.js tabanlı API geliştirmeleri  
-- 🗄️ **Veritabanı Çalışmaları:** Firebase & MySQL kullanımı  
-- 🎨 **UI/UX Tasarımlar:** Figma üzerinde modern arayüzler  
+- **[MyPortfolio](https://github.com/ardasakarya/MyPortfolio)** — Portföy sitesi (HTML). *(Updated Aug 18, 2025)(hazırlanıyor...)*
+- **[merada_gayrimenkul](https://github.com/ardasakarya/merada_gayrimenkul)** — Emlak temalı web projesi (HTML). *(Updated Aug 13, 2025)(hazırlanıyor...)*
+- **[association](https://github.com/ardasakarya/association)** — Dernek/birlik temalı proje (HTML). *(Updated Aug 6, 2025)(hazırlanıyor...)*
+- **[elitProfil](https://github.com/ardasakarya/elitProfil)** — Profil temalı HTML proje. *(Updated Jun 25, 2025)(hazırlanıyor...)*
+- **[KurtulusJewelery](https://github.com/ardasakarya/KurtulusJewelery)** — Mücevher temalı web sayfası (HTML). *(Updated May 31, 2025)*
+- **[Orko_Aku_web](https://github.com/ardasakarya/Orko_Aku_web)** — Web tabanlı proje (HTML). *(Updated Nov 27, 2024)*
+- **[dateApp](https://github.com/ardasakarya/dateApp)** — Tarih uygulaması (Kotlin). *(Updated Jun 4, 2024)*
+- **[web_proje](https://github.com/ardasakarya/web_proje)** — PHP tabanlı web uygulama. *(Updated May 3, 2024)*
+- **[photo_sharing_app](https://github.com/ardasakarya/photo_sharing_app)** — Fotoğraf paylaşım uygulaması (Kotlin). *(Updated May 3, 2024)*
+- **[chatapp](https://github.com/ardasakarya/chatapp)** — Sohbet uygulaması (Kotlin). *(Updated Apr 4, 2024)*
+- **[ToDo](https://github.com/ardasakarya/ToDo)** — Görev listesi uygulaması (Kotlin). *(Updated Dec 11, 2023)*
 
+---
 ---
 
 ## 📊 GitHub İstatistikleri
@@ -65,8 +72,8 @@ Ekip çalışmasına yatkınlığım ve problem çözme becerilerimle sektörde 
 
 ## 📫 İletişim
 
-- 📧 E-posta: [sakaryaarda@gmail.com](mailto:sakaryaarda@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/arda-sakarya-03281023a](https://www.linkedin.com/in/arda-sakarya-03281023a/)  
-- 🐙 GitHub: [github.com/ardasakarya](https://github.com/ardasakarya)  
+![Gmail](https://img.shields.io/badge/-sakaryaarda@gmail.com-c14438?logo=gmail&logoColor=white&style=for-the-badge)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
 
 ---
