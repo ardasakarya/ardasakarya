@@ -70,11 +70,3 @@ Ekip çalışmasına yatkınlığım ve problem çözme becerilerimle sektörde 
 
 ---
 
-## 📫 İletişim
-
-[![Gmail](https://img.shields.io/badge/-c14438?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sakaryaarda@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/arda-sakarya-03281023a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ardasakarya)
-
-
----
